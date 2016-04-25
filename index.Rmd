@@ -102,16 +102,14 @@ print(p+geom_abline(color='grey'))
 ## As art
 ![](img/mount-fear.jpg)
 
+# Educational imagery
 
-# What do STEM workers study?
+## What do STEM workers study?
 
-## A Sankey diagram
+<a href="https://www.census.gov/dataviz/visualizations/stem/stem-html/"  target="_blank"><img src="img/STEMworkers.png" width="600" height="600" border="10"/></a>
 
-<a href="https://www.census.gov/dataviz/visualizations/stem/stem-html/"  target="_blank"><img src="img/STEMworkers.png" width="800" height="500" border="10"/></a>
+## School funding per student
 
-# School funding per student
-
-## 
 <a href="http://www.npr.org/2016/04/18/474256366/why-americas-schools-have-a-money-problem#responsive-embed-school-funding-map-20160408" target="_blank"><img src="img/SchoolFundingNPR.png"/></a>
 
 # When should you work?
@@ -121,13 +119,39 @@ print(p+geom_abline(color='grey'))
 <img src="https://dgyqr055mfays.cloudfront.net/site/creative_routines_assets/images/work_embed.png" border="0" width="600" height="1049" />
 
 ## It turns out great minds don't work alike!!!
-    
-# How much can one country affect another
 
-## China's impact
+# Words
+
+## Cats!!
+
+<img src="img/tagxedo2.jpg" width="600" height="600"/>
+
+# Money, money, money
+
+## Spending at home
+
+<img src="img/money.png" width="800" height="600"/>
+
+## At the movies
+
+<img src="img/movies.jpg" width="800" height="500"/>
+
+## Countries
 
 <a href="http://www.theguardian.com/world/ng-interactive/2015/aug/26/china-economic-slowdown-world-imports" target="_blank"><img src="img/china.png" width="800"
 height="500" border="10"/></a>
+
+# Weather wizards
+
+## Summarizing a year in the city
+
+<img src="img/weathercircle.png" width="500" height="500"/>
+
+## The power of the wind
+<a href="http://hint.fm/wind/" target="_blank">
+  <img src="img/wind_visualization.png" width="600" height="400"/>
+</a>
+
 
 # A game changer
 
