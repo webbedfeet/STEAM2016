@@ -1,7 +1,0 @@
----
-title: "Data Visualization"
-subtitle: "Science, Art and Data together"
-author: "Abhijit Dasgupta"
-date: "April 29, 2016"
-output: ioslides_presentation
----
