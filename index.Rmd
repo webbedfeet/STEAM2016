@@ -122,6 +122,13 @@ print(p+geom_abline(color='grey'))
 
 ## It turns out great minds don't work alike!!!
     
+# How much can one country affect another
+
+## China's impact
+
+<a href="http://www.theguardian.com/world/ng-interactive/2015/aug/26/china-economic-slowdown-world-imports" target="_blank"><img src="img/china.png" width="800"
+height="500" border="10"/></a>
+
 # A game changer
 
 ## 200 Countries, 200 Years, 4 minutes
