@@ -78,9 +78,20 @@ print(p+geom_abline(color='grey'))
 
 + Some of the best are __New York Times__ and __The Guardian__
 
-## We produce a lot of data (6 ZettaBytes/year)
+## We produce a lot of data
 
 <img src="img/bytes.jpg" height="500"/>
+
+# Some early visualizations
+
+## Deaths and temperature (1852)
+
+<img src="img/temp.jpg" height="500"/>
+
+## Cholera (1854)
+
+<a href="http://www.theguardian.com/news/datablog/interactive/2013/mar/15/cholera-map-john-snow-recreated" target="_blank">
+<img src="img/cholera.jpg" height="500"/></a>
 
 # Where do we live? 
 
@@ -172,6 +183,16 @@ height="500" border="10"/></a>
 <a href="http://hint.fm/wind/" target="_blank">
   <img src="img/wind_visualization.png" width="600" height="400"/>
 </a>
+
+# Infographics
+
+## Measuring for cooking
+
+<img src="img/Units-chart.gif" height="500"/>
+
+## Measuring planets
+
+<img src="img/Fruit-planets.jpg" height="500"/>
 
 # Visualizing war
 
