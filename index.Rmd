@@ -65,20 +65,22 @@ print(p+geom_abline(color='grey'))
 
 # From graphs to visualizations
 
-## Data Storytelling
+## Visualization is <br/> using Art to <br/> display Information <br/> derived from Data 
 
-+ Data is not information!!!
-+ Data has to be converted to information
-+ That information can _inform_ us, tell a story
-+ Gain understanding, gain knowledge, plan for the future
 
-+ Some of the best are __New York Times__ and __The Guardian__
+
 
 ## Data as Art
 
-+ Humans understand pictures better than words
++ We process visual information __60,000 times__ faster than text information
 + An artistic viewpoint helps express the story in data
 + Technology allows us to create dynamic (moving) pictures to tell the story
+
++ Some of the best are __New York Times__ and __The Guardian__
+
+## We produce a lot of data (6 ZettaBytes/year)
+
+<img src="img/bytes.jpg" height="600"/>
 
 # Where do we live? 
 
@@ -120,6 +122,25 @@ print(p+geom_abline(color='grey'))
 
 ## It turns out great minds don't work alike!!!
 
+# Sports
+
+## NCAA tournament brackets
+
+<a href="http://thepowerrank.com/ncaa-tournament-predictions/" target="_blank"><img src="img/ncaa.png" height="600"/></a>
+
+## Basketball shots
+
+<img src="img/basketball1.jpg" height="500"/>
+
+## Describing a basketball game
+
+<a href="http://www.nytimes.com/interactive/2012/06/11/sports/basketball/nba-shot-analysis.html?_r=0" target="_blank">
+	<img src='img/playoff.png' height="500"/></a>
+
+## Soccer
+
+<img src="img/rooney.png" height="600"/>
+
 # Words
 
 ## Cats!!
@@ -130,7 +151,7 @@ print(p+geom_abline(color='grey'))
 
 ## Spending at home
 
-<img src="img/money.png" width="800" height="600"/>
+<a href="http://flowingdata.com/2015/04/02/how-we-spend-our-money-a-breakdown/" target="_blank"><img src="img/money.png" width="800" height="600"/></a>
 
 ## At the movies
 
@@ -152,6 +173,11 @@ height="500" border="10"/></a>
   <img src="img/wind_visualization.png" width="600" height="400"/>
 </a>
 
+# Visualizing war
+
+##
+
+<a href="http://drones.pitchinteractive.com" target="_blank"><img src="img/drones.png" width="800" height="600" border="10"/></a>
 
 # A game changer
 
