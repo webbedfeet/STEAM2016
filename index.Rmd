@@ -80,7 +80,7 @@ print(p+geom_abline(color='grey'))
 
 ## We produce a lot of data (6 ZettaBytes/year)
 
-<img src="img/bytes.jpg" height="600"/>
+<img src="img/bytes.jpg" height="500"/>
 
 # Where do we live? 
 
@@ -108,7 +108,7 @@ print(p+geom_abline(color='grey'))
 
 ## What do STEM workers study?
 
-<a href="https://www.census.gov/dataviz/visualizations/stem/stem-html/"  target="_blank"><img src="img/STEMworkers.png" width="600" height="600" border="10"/></a>
+<a href="https://www.census.gov/dataviz/visualizations/stem/stem-html/"  target="_blank"><img src="img/STEMworkers.png" width="500" height="500" border="10"/></a>
 
 ## School funding per student
 
@@ -118,7 +118,7 @@ print(p+geom_abline(color='grey'))
 
 ## 
 
-<img src="https://dgyqr055mfays.cloudfront.net/site/creative_routines_assets/images/work_embed.png" border="0" width="600" height="1049" />
+<img src="https://dgyqr055mfays.cloudfront.net/site/creative_routines_assets/images/work_embed.png" border="0" height="800" />
 
 ## It turns out great minds don't work alike!!!
 
